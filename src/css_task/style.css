@@ -1,0 +1,17 @@
+.btn_edit {
+    margin: 0 10px;
+}
+
+.taskControl {
+    margin-top: 15px;
+}
+
+.text-right-close {
+    float: right;
+    margin-top:3px;
+    cursor: pointer;
+    color: rgb(170, 37, 37);
+}
+.text-right-close:hover{
+    color: rgb(170, 170, 98);
+}
